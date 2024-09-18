@@ -8,6 +8,7 @@ def smallest_num_in_list(list):
                     if a < min:
                         min = a
             return min
+
 print("Smallest Number", smallest_num_in_list([1, 2, -8, 0]))
 
 """
