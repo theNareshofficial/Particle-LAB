@@ -5,8 +5,8 @@ def sum_list(items):
             for x in items:
                     sum_number += x
             return sum_number
-print("Sum is", sum_list([1,2,-8]))
 
+print("Sum is", sum_list([1,2,-8]))
 
 """ 
 Output : 
