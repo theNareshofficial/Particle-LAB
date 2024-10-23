@@ -8,6 +8,7 @@ This Practice LAB Repositories for my college exaplem and exices porject's We ca
 - [DSA](https://github.com/theNareshofficial/Particle-LAB/tree/main/DSA)
 - [OOPS](https://github.com/theNareshofficial/Particle-LAB/tree/main/OOPS)
 - [PDF](https://github.com/theNareshofficial/Particle-LAB/tree/main/PDF)
+- [Notes](https://github.com/theNareshofficial/Particle-LAB/tree/main/Notes)
 
 
 OOPS🔻
