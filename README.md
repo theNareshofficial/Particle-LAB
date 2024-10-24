@@ -14,6 +14,11 @@ This Practice LAB Repositories for my college exaplem and exices porject's We ca
 OOPS🔻
 ----
 - [Hello World Program](https://github.com/theNareshofficial/Particle-LAB/blob/main/OOPS/hello.java)
+- [1(A) Liner Search](https://github.com/theNareshofficial/Particle-LAB/blob/main/OOPS/linear_search.java)
+- [1(B) Binary Search](https://github.com/theNareshofficial/Particle-LAB/blob/main/OOPS/binary_search.java)
+- [1(C) Selection Sort](https://github.com/theNareshofficial/Particle-LAB/blob/main/OOPS/selection_sort.java)
+- [1(D) Insertion Sort](https://github.com/theNareshofficial/Particle-LAB/blob/main/OOPS/insertion_sort.java)
+- [2(A) Stack Operation](https://github.com/theNareshofficial/Particle-LAB/blob/main/OOPS/stack_operation.java)
 
 DSA🔻
 ----
