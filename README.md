@@ -1,6 +1,6 @@
 <h1 align="center">Pratical LAB🧪</h1>
 <p>
-This Practice LAB Repositories for my college exaplem and exices porject's We can easily manage the code any where and any time for education purposes only.
+This Practice LAB Repositories for my college example and exices porject's We can easily manage the code any where and any time for education purposes only.
 </p> 
 
 ## Subject's📚
@@ -19,6 +19,9 @@ OOPS🔻
 - [1(C) Selection Sort](https://github.com/theNareshofficial/Particle-LAB/blob/main/OOPS/selection_sort.java)
 - [1(D) Insertion Sort](https://github.com/theNareshofficial/Particle-LAB/blob/main/OOPS/insertion_sort.java)
 - [2(A) Stack Operation](https://github.com/theNareshofficial/Particle-LAB/blob/main/OOPS/stack_operation.java)
+- [2(A) Stack Operation](https://github.com/theNareshofficial/Particle-LAB/blob/main/OOPS/stack_operation.java)
+- [9 Stack(Program-1)](https://github.com/theNareshofficial/Particle-LAB/blob/main/OOPS/Stack.java)
+- [9 StackGeneric(Program-2)](https://github.com/theNareshofficial/Particle-LAB/blob/main/OOPS/StackGeneric.java )
 
 DSA🔻
 ----
