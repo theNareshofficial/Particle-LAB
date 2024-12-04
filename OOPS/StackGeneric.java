@@ -41,3 +41,33 @@ public class StackGeneric {
         System.out.println("Popped: " + ist.pop());
     }
 }
+
+// // Output
+// Pushing the elements in the integer stack:
+// Pushed: 1
+// Pushed: 2
+// Pushed: 3
+// Pushed: 4
+// Pushed: 5
+
+// Pushing the elements in the character stack:
+// Pushed: A
+// Pushed: B
+// Pushed: C
+// Pushed: D
+// Pushed: E
+
+// Popping the elements from the character stack:
+// Popped: E
+// Popped: D
+
+// Popping the elements from the integer stack:
+// Popped: 5
+// Popped: 4
+// Popped: 3
+// Popped: 2
+// Popped: 1
+
+// Performing one more pop on the integer stack:
+// Stack is empty
+// Popped: null
