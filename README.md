@@ -28,4 +28,10 @@ DSA🔻
 - [1a) Sum of all items](https://github.com/theNareshofficial/Particle-LAB/blob/main/DSA/1a.py)
 - [1b) Smallest number in list](https://github.com/theNareshofficial/Particle-LAB/blob/main/DSA/1b.py)
 
+FODS🔻
+----
+- [Panda](https://github.com/theNareshofficial/Particle-LAB/blob/main/FODS/panda.py)
+- [Plotting Function](https://github.com/theNareshofficial/Particle-LAB/blob/main/FODS/plotting_func.py)
+
+
 <h1 align="center">ThankYou🎉</h1>
