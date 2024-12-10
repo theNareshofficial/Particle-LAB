@@ -47,3 +47,17 @@ if __name__ == "__main__":
     print("Popped element:", stack.pop())
     print("Popped element:", stack.pop())
     print("Popped element:", stack.pop())
+
+
+# Output: python Stack.py 
+# 10 pushed to stack.
+# 20 pushed to stack.
+# 30 pushed to stack.
+# Stack contents: [10, 20, 30]
+# Top element: 30
+# Popped element: 30
+# Stack contents: [10, 20]
+# Popped element: 20
+# Popped element: 10
+# Stack is empty. Cannot pop.
+# Popped element: None
