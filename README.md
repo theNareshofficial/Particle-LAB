@@ -7,6 +7,7 @@ This Practice LAB Repositories for my college example and exices porject's We ca
 
 - [DSA](https://github.com/theNareshofficial/Particle-LAB/tree/main/DSA)
 - [OOPS](https://github.com/theNareshofficial/Particle-LAB/tree/main/OOPS)
+- [FODS](https://github.com/theNareshofficial/Particle-LAB/tree/main/FODS)
 - [PDF](https://github.com/theNareshofficial/Particle-LAB/tree/main/PDF)
 - [Notes](https://github.com/theNareshofficial/Particle-LAB/tree/main/Notes)
 
@@ -27,6 +28,8 @@ DSA🔻
 ----
 - [1a) Sum of all items](https://github.com/theNareshofficial/Particle-LAB/blob/main/DSA/1a.py)
 - [1b) Smallest number in list](https://github.com/theNareshofficial/Particle-LAB/blob/main/DSA/1b.py)
+- [Circular Linked List](https://github.com/theNareshofficial/Particle-LAB/blob/main/DSA/CircularLinkedList.py)
+- [Stack](https://github.com/theNareshofficial/Particle-LAB/blob/main/DSA/Stack.py)
 
 FODS🔻
 ----
