@@ -35,6 +35,7 @@ FODS🔻
 ----
 - [Panda](https://github.com/theNareshofficial/Particle-LAB/blob/main/FODS/panda.py)
 - [Plotting Function](https://github.com/theNareshofficial/Particle-LAB/blob/main/FODS/plotting_func.py)
+- [FODS Book](https://github.com/theNareshofficial/Particle-LAB/blob/main/Books/FODS%20BOOK.pdf)
 
 
 <h1 align="center">ThankYou🎉</h1>
