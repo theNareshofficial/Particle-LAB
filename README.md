@@ -10,6 +10,7 @@ This Practice LAB Repositories for my college example and exices porject's We ca
 - [FODS](https://github.com/theNareshofficial/Particle-LAB/tree/main/FODS)
 - [PDF](https://github.com/theNareshofficial/Particle-LAB/tree/main/PDF)
 - [Notes](https://github.com/theNareshofficial/Particle-LAB/tree/main/Notes)
+- [Books](https://github.com/theNareshofficial/Particle-LAB/tree/main/Books)
 
 
 OOPS🔻
@@ -30,6 +31,7 @@ DSA🔻
 - [1b) Smallest number in list](https://github.com/theNareshofficial/Particle-LAB/blob/main/DSA/1b.py)
 - [Circular Linked List](https://github.com/theNareshofficial/Particle-LAB/blob/main/DSA/CircularLinkedList.py)
 - [Stack](https://github.com/theNareshofficial/Particle-LAB/blob/main/DSA/Stack.py)
+- [DSA Book](https://github.com/theNareshofficial/Particle-LAB/blob/main/Books/DSA%20Lecture-Notes.pdf)
 
 FODS🔻
 ----
