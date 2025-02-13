@@ -30,7 +30,9 @@ DSA🔻
 - [1a) Sum of all items](https://github.com/theNareshofficial/Particle-LAB/blob/main/DSA/1a.py)
 - [1b) Smallest number in list](https://github.com/theNareshofficial/Particle-LAB/blob/main/DSA/1b.py)
 - [Circular Linked List](https://github.com/theNareshofficial/Particle-LAB/blob/main/DSA/CircularLinkedList.py)
+- [Recursion factorial](https://github.com/theNareshofficial/Particle-LAB/blob/main/DSA/Recursion_factorial.py)
 - [Stack](https://github.com/theNareshofficial/Particle-LAB/blob/main/DSA/Stack.py)
+- [Simple Hash](https://github.com/theNareshofficial/Particle-LAB/blob/main/DSA/simple_hash.py)
 - [DSA Book](https://github.com/theNareshofficial/Particle-LAB/blob/main/Books/DSA%20Lecture-Notes.pdf)
 
 FODS🔻
