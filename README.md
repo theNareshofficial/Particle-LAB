@@ -42,4 +42,15 @@ FODS🔻
 - [FODS Book](https://github.com/theNareshofficial/Particle-LAB/blob/main/Books/FODS%20BOOK.pdf)
 
 
+3rd-Sem Question Paper🔻
+- [DPCO Dec-2022-Question-Paper](https://github.com/theNareshofficial/Particle-LAB/blob/main/3-Sem%20Question%20Paper/DPCO/CS3351-Digital-Principles-and-Computer-Organization-Nov-Dec-2022-Question-Paper-Download.pdf)
+- [DPCO May-2023-Question-Paper](https://github.com/theNareshofficial/Particle-LAB/blob/main/3-Sem%20Question%20Paper/DPCO/CS3351-Digital-Principles-and-Computer-Organization-Apr-May-2023-Question-Paper-Download.pdf)
+- [DPCO Dec-2023-Question-Paper](https://github.com/theNareshofficial/Particle-LAB/blob/main/3-Sem%20Question%20Paper/DPCO/CS3351-Digital-Principles-and-Computer-Organization-Nov-Dec-2023-Question-Paper-Download.pdf)
+- [DPCO May-2024-Question-Paper](https://github.com/theNareshofficial/Particle-LAB/blob/main/3-Sem%20Question%20Paper/DPCO/CS3351-Digital-Principles-and-Computer-Organization-Apr-May-2024-Question-Paper-Download.pdf)
+
+- [DSA Dec-2022-Question-Paper](https://github.com/theNareshofficial/Particle-LAB/blob/main/3-Sem%20Question%20Paper/DSA/CD3291-Data-Structures-and-Algorithms-Nov-Dec-2022-Question-Paper-Download.pdf)
+- [DSA May-2023-Question-Paper](https://github.com/theNareshofficial/Particle-LAB/blob/main/3-Sem%20Question%20Paper/DSA/CD3291-Data-Structures-and-Algorithms-Apr-May-2023-Question-Paper-Download.pdf)
+- [DSA Dec-2023-Question-Paper](https://github.com/theNareshofficial/Particle-LAB/blob/main/3-Sem%20Question%20Paper/DSA/CD3291-Data-Structures-and-Algorithms-Nov-Dec-2023-Question-Paper-Download.pdf)
+- [DSA May-2024-Question-Paper](https://github.com/theNareshofficial/Particle-LAB/blob/main/3-Sem%20Question%20Paper/DSA/CD3291-Data-Structures-and-Algorithms-Apr-May-2024-Question-Paper-Download.pdf)
+
 <h1 align="center">ThankYou🎉</h1>
